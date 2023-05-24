@@ -4,9 +4,9 @@
 
 ## Created task deployed on below links :
 
-<a href="" target="_blank">Deployed in Netlify</a>
+<a href="https://suriya-k7-day-15-task-02-form.netlify.app/" target="_blank">Deployed in Netlify</a>
 
-<a href="" target="_blank">Deployed in Github.io</a>
+<a href="https://suriya-k7.github.io/Guvi_Day_15_task_02_form/" target="_blank">Deployed in Github.io</a>
 
 <i>While testing, use fake filler extension on browser for entering all data easily (for time saving)</i>
 
