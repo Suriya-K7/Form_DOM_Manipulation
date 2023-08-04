@@ -1,10 +1,10 @@
-# [🔗 GUVI Day Fifteen task]()
+# [🔗 GUVI Day Fifteen task](https://form-dom-manipulation-sk7.netlify.app/)
 
 ## Task 02 : DOM Manipulation with form
 
 ## Created task deployed on below links :
 
-<a href="https://suriya-k7-day-15-task-02-form.netlify.app/" target="_blank">Deployed in Netlify</a>
+<a href="https://form-dom-manipulation-sk7.netlify.app/" target="_blank">Deployed in Netlify</a>
 
 <a href="https://suriya-k7.github.io/Guvi_Day_15_task_02_form/" target="_blank">Deployed in Github.io</a>
 
@@ -18,6 +18,6 @@
 
 > > <i>Note : on Zen portal only two space available for submitting task so i included task 03 - calculator link in below</i>
 
-<a href="https://suriya-k7-day-15-task-03-calculator.netlify.app/" target="_blank">Task 03 link (Deployed in Netlify)</a>
+<a href="https://calculator-sk7.netlify.app/" target="_blank">Task 03 link (Deployed in Netlify)</a>
 
 <a href="https://github.com/Suriya-K7/Guvi_Day_15_task_03_calculator" target="_blank">Task 03 source code</a>
